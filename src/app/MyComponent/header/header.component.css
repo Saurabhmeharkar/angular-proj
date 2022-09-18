@@ -1,0 +1,15 @@
+header{
+    background-color: #230f44;
+    color: white;
+    justify-content: space-between;
+}
+
+.row{
+    display: flex;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+
+}
